@@ -92,8 +92,6 @@ ul {
 }
 
 .site-nav .link {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.1px;
@@ -104,8 +102,6 @@ ul {
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
- font-family: 'Roboto';
- font-style: normal;
  font-weight: 500;
  font-size: 14px;
  line-height: 1.1px;
